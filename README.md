@@ -1,1 +1,1 @@
-Piyasada satılan Stm32 geliştirme kartları erkek header çıkışlı olup bir breadboard kullanımı gerektirmektedir. Bende daha fonksiyonel kullanımı için arduino daki gibi dişi headerlar kullanarak yeniden tasarladım.
+Piyasada satılan Stm32 geliştirme kartları erkek header çıkışlı olup bir breadboard kullanımı gerektirmektedir. Bu projeyi daha fonksiyonel kullanımı açısından arduino daki gibi dişi headerlar kullanarak yeniden tasarladım.
