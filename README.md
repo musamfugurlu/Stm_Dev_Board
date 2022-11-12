@@ -1,0 +1,1 @@
+Piyasada satılan Stm32 geliştirme kartları erkek pin çıkışlı olup bir breadboard kullanımı gerektirmektedir. Bende daha fonksiyonel kullanımı için arduino daki gibi dişi headerlar kullanarak yeniden tasarladım.
